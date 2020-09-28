@@ -1,3 +1,8 @@
 test git
 
 use git push --all to push branches to remote if branches are not added to the remote already
+
+to delete a remote branch use the command
+
+use git branch -a to list all branches in remote and local
+git push -d origin branchname
