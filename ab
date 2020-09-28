@@ -8,3 +8,6 @@ use git branch -a to list all branches in remote and local
 git push -d origin branchname
 
 test delete remote branch with git push --force
+
+Prune
+git fetch -p
