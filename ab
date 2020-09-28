@@ -1,1 +1,3 @@
 test git
+
+use git push --all to push branches to remote if branches are not added to the remote already
